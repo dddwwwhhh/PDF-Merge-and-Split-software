@@ -2,7 +2,7 @@
 Using python makes PDF Merge and Split software with GUI
 
 
-*How to use:*
+### How to use:
 Add -- adding PDF file to the program for merge to one file or split files to multiple single page PDF file. 
 Clean -- To remove all added file in the program.
 
@@ -15,7 +15,7 @@ Save path -- Defining the output file paht for split function. Without defining,
 Quit -- End the program.
 
 
-[PDF_merge.py is the source file for the exe programe.] 
+###PDF_merge.py is the source file for the exe programe.
 
 
 

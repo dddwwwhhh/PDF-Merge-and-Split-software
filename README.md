@@ -15,7 +15,7 @@ Save path -- Defining the output file paht for split function. Without defining,
 Quit -- End the program.
 
 
-###PDF_merge.py is the source file for the exe programe.
+### PDF_merge.py is the source file for the exe programe.
 
 
 

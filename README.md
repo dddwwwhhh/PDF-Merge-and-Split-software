@@ -25,4 +25,10 @@ Using pyinstaller to generate exe file for Windows OS.
 pip install pyinstaller
 pyinstaller --onefile -w --icon=a.ico PDF_merge.py
 ```
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detail
+
+
+## Acknowledgments
+https://realpython.com/pdf-python/
